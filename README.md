@@ -1,5 +1,5 @@
 # Project Name - Car Rental System
-# Group NO : SEJ001
+KJSCE
 # Batch - A3
 ### Member 1 - 16010122073 - Avnish Joshi
 ### Member 2 - 16010122075 - Raahi Joshi
