@@ -1,19 +1,18 @@
 # Project Name - Car Rental System
 # Group NO : SEJ001
-# Batch - Y3.S1.WD.SE.01.01
-### Group Leader - IT20636524 - Miss.P.P.S.Ariyasena (IT20636524)
-### Member 2 - IT20643836 - Miss. B.M.N.D.S.Ariyarathna (SandalikaAriyrathna)
-### Member 3 - IT20636692 - Miss. L.A.M.D.Perera (MokshikaPerera)
-### Member 4 - IT20653118 - Mr. Y.W.S.H.Wishvajith (IT20653118)
+# Batch - A3
+### Member 1 - 16010122073 - Avnish Joshi
+### Member 2 - 16010122075 - Raahi Joshi
 
-## Project Description:
+
+
 We are going to make a full functional web application for renting a car. We hope to make this application make things easier for the customer. 
 There are 4 main functions in this app, they are bookings management, user management, driver and feedback management, car management and payment management. 
 We hope to use MERN STACK to develop our project, MERN stack is a JavaScript software stack for building dynamic web applications. 
 Each functions had full crud operations.
 
-## Technologies:
-###### MERN Stack
+Technologies:
+MERN Stack
 - Frontend : React
 - Backend : Node js
 - IDE: VS code
